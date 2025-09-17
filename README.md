@@ -16,8 +16,6 @@ Con esta solución se evita la frustración del usuario y la pérdida de tiempo,
 ## 🎨 Mockup de la solución
 La propuesta fue diseñada con IA (Stitch + DALL·E)
 
-![Mockup de solución]
-
-(/screen.png)
+![Mockup de solución] (./screen.png)
 ---
 
