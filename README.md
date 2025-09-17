@@ -18,6 +18,6 @@ La propuesta fue diseñada con IA (Stitch + DALL·E)
 
 ![Mockup de solución]
 
-(./screen.jpg)
+(./screen.png)
 ---
 
