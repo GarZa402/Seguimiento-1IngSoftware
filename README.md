@@ -11,7 +11,7 @@ Actualmente, al explorar **historias en el feed**, el usuario no tiene control s
 Incorporar un **botón o filtro de favoritos**, donde el usuario seleccione qué cuentas quiere priorizar. De esta forma, sus historias aparecerán en primer lugar al abrir la aplicación.  
 
 ### ✅ Justificación  
-La solución brinda **mayor personalización** y control al usuario, evitando pérdida de tiempo y mejorando la experiencia de navegación en el feed de historias, haciéndola más **fluida, intuitiva y enfocada en lo que realmente interesa**.  
+La solución brinda **mayor personalización** y control al usuario, evitando pérdida de tiempo y mejorando la experiencia de navegación en el feed de historias, haciéndola más **fluida, intuitiva y enfocada en lo que realmente le interesa**.  
 
 ### 🎨 Mockup de la solución  
 La propuesta fue diseñada con IA (Stitch + DALL·E).  
