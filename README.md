@@ -34,5 +34,5 @@ La solución brinda **mayor personalización** y control al usuario, evitando p�
 ### 🎨 Mockup de la solución  
 La propuesta fue diseñada con IA (Stitch + DALL·E).  
 
-![Mockup de solución](./screen.png)
+![Mockup de solución]
 
